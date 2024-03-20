@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @cassiSimpsonBusiness
 - 👀 I’m interested in ...
-  Game Design, and Web Design
+  - Game Design, and Web Design
 - 🌱 I’m currently learning ...
--   C#
+  - C#
 - 📫 How to reach me ...
--   cassiSimpsonBusiness@protonmail.com
+  - cassiSimpsonBusiness@protonmail.com
 - 😄 Pronouns: ...
--   They/Them
+  - They/Them
+
 
 <!---
 cassiSimpsonBusiness/cassiSimpsonBusiness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
